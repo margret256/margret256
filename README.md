@@ -4,9 +4,9 @@
 
 🧠 Currently working on: Beyond-Sports platform Farm Input Marketplace App
 
-📚 Learning: NestJS PostgreSQL React Native DevOps & Deployment
+📚 Learning: NestJS PostgreSQL & Python
 
-🛠️ Tech I use: HTML | CSS | JavaScript | Node.js | Vue.js |React.js| MongoDB | PostgreSQL | Git | GitHub
+🛠️ Tech I use: HTML | CSS | JavaScript | Node.js | Vue.js |React.js| React Native| MongoDB | PostgreSQL | Git | GitHub
 
 🚀 Projects: Beyond-Sports Farm Input Marketplace
 

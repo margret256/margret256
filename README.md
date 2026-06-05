@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hello , I'm Margret Nanyonga!
 
-<!--
-**margret256/margret256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m a Software Engineering student at Refactory Academy.
 
-Here are some ideas to get you started:
+🧠 Currently working on: Beyond-Sports platform Farm Input Marketplace App
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Learning: NestJS PostgreSQL React Native DevOps & Deployment
+
+🛠️ Tech I use: HTML | CSS | JavaScript | Node.js | Vue.js |React.js| MongoDB | PostgreSQL | Git | GitHub
+
+🚀 Projects: Beyond-Sports Farm Input Marketplace
+
+📫 Reach me: Email: lwangamargret68@gmail.com LinkedIn: www.linkedin.com/in/margret-nanyonga-97aa8b37
+
+⚡ Fun Fact: I love coding while listening to music.

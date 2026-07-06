@@ -10,6 +10,6 @@
 
  Projects: Beyond-Sports Farm Input Marketplace
 
- Reach me: Email: lwangamargret68@gmail.com LinkedIn: www.linkedin.com/in/margret-nanyonga-97aa8b37
+ Reach me: Email: lwangamargret68@gmail.com LinkedIn: https://www.linkedin.com/in/margret-nanyonga-97aa8b375/
 
  Fun Fact: I love coding while listening to music.

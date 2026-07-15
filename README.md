@@ -2,7 +2,7 @@
 
  I’m a Software Engineering student at Refactory Academy.
 
- Currently working on: Beyond-Sports platform Farm Input Marketplace App
+ Currently working on:Farm Input Marketplace App
 
  Learning: NestJS PostgreSQL & Python
 
